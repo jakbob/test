@@ -1,0 +1,1 @@
+c:\users\emil.bjorling.se\documents\visual studio 2012\Projects\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config

@@ -1,1 +1,10 @@
 c:\users\emil.bjorling.se\documents\visual studio 2012\Projects\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\git\test\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\git\test\JenkinsTest\bin\Debug\JenkinsTest.exe
+C:\git\test\JenkinsTest\bin\Debug\JenkinsTest.pdb
+C:\git\test\JenkinsTest\obj\Debug\JenkinsTest.csprojResolveAssemblyReference.cache
+C:\git\test\JenkinsTest\obj\Debug\JenkinsTest.exe
+C:\git\test\JenkinsTest\obj\Debug\JenkinsTest.pdb
+C:\git\test\JenkinsTest\release\JenkinsTest.exe.config
+C:\git\test\JenkinsTest\release\JenkinsTest.exe
+C:\git\test\JenkinsTest\release\JenkinsTest.pdb

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTest", "JenkinsTest\JenkinsTest.csproj", "{2106F387-A8EB-43EC-A2AF-8FBFC54C91DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTest", "TestTest\TestTest.csproj", "{D6B6C6D5-9A83-4BE1-A76C-38A217C12B37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2106F387-A8EB-43EC-A2AF-8FBFC54C91DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2106F387-A8EB-43EC-A2AF-8FBFC54C91DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2106F387-A8EB-43EC-A2AF-8FBFC54C91DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B6C6D5-9A83-4BE1-A76C-38A217C12B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6C6D5-9A83-4BE1-A76C-38A217C12B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6C6D5-9A83-4BE1-A76C-38A217C12B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6C6D5-9A83-4BE1-A76C-38A217C12B37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
